@@ -1,0 +1,60 @@
+#logo{height:75px;width:75px;display: inline-block;}
+.topdiv{border:5px solid aqua;background-color: black;border-radius:20%;color:aliceblue;display:inline-block;font-size:20px ;text-decoration: none;}
+#options{position:relative;top:45px;left:895px;width:210px;display:none;background-color:black;color:aliceblue;}
+#options a{display:block;font-size:17px;color:aliceblue;}
+#header{background-color:rgb(202, 120, 6) ;height: 60px;width:100%;border-radius:15%;position:fixed;display:flex;justify-content: space-between;align-items:center;}
+body{background-color: pink;}
+#search{margin-right:30px}
+#srch{position:relative;right:25px;}
+#space{height:70px;font-size: 50px;}
+#flower1{height:150px;background-size:contain;background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYv3b-4fM0z77wXm9EmndDv-kg_6-eqGfTixLzjkkmJg&s=10);}
+#one{height:55px;font-size:40px;text-decoration:underline ;}
+#two{height:50px;font-size:30px;}
+#three{display:inline-block}
+#three img{height:300px;width:230px;display: inline-block;}
+#four{ padding-left:50px; display: inline-block;font-size:30px;vertical-align: top;color: brown;}
+#four pre{font-family: "Dancing Script", cursive;  font-weight: 900;}
+#five{display:flex;font-size:30px;}
+#five img{display:inline-block;margin-left: auto;height:440px;width:270px;}
+#five pre{font-family: "Dancing Script", cursive;  font-weight: 900;}
+#six img{height:200px;width:200px}
+#seven{color:rgb(219, 20, 100);font-size:35px;display: flex;justify-content: space-between;vertical-align: auto;font-family: "Dancing Script", cursive;  font-weight: 900;}
+#seven img{height: 300px;width:320px;}
+#space2{height:75px;}
+#eight{margin:auto;display: inline-block;width:100%;text-align: center;}
+#eight img{ transition: all 2s ease-in 0s; display:inline-block ;  margin: auto;  height: 250px;  width: 230px;}
+#eight img.click{transform: rotate(90deg) translateX(400px);}
+#zerocross{height:350px;width: 350px;display: flex;flex-wrap:wrap;align-content:center;margin:auto;}
+#heart1{font-size:80px;height: 100px;width:100px;}
+#heart2{font-size:80px;height: 100px;width:100px;}
+#heart3{font-size:80px;height: 100px;width:100px;}
+#heart4{font-size:80px;height: 100px;width:100px;}
+#heart5{font-size:80px;height: 100px;width:100px;}
+#heart6{font-size:80px;height: 100px;width:100px;}
+#heart7{font-size:80px;;height: 100px;width:100px;}
+#heart8{font-size:80px;height: 100px;width:100px;}
+#heart9{font-size:80px;height: 100px;width:100px;}
+#nine{border:20px solid gray;display: inline;background-color:rgb(208, 200, 200);text-decoration: underline;font-size:100px;font-weight:700;color: green;}
+#nine2{font-size: 100px;display: inline;}
+#ten{display: none;border-radius:50%;background-color: azure;border: 10px solid brown;text-align: center;font-size: 80px;color: brown;}
+#eight1 img{display: block;height:125px;width: 100%;}
+#eleven{font-size: 55px;text-decoration: overline underline;color: rgb(138, 24, 24);}
+#twelve{font-size: 35px;color: white;background-color: black;}
+#twelve1{font-size: 25px;}
+#thirteen{width:500px;border-radius: 17%;border:5px solid black;display: none ;font-weight: bold;font-size: 40px;color: black;background-color: yellow;}
+hr {
+    display: block;
+    border: 0;
+    border-top: 3px solid black;
+    width: 100%;
+    margin: 20px 0;
+}
+#fourteen1{color: black;background-color: rgb(228, 27, 27);font-size:35px;}
+#fourteen{display: inline-block;}
+#access{display: inline-block;}
+#fifteen{display: none;gap:100px;justify-content: space-between;}
+#pic1 {height:400px;width:300px;}
+#pic1 img{height:400px;width:300px;}
+#welcome{display:none;border:10px solid white;background-color: burlywood;text-align: center;text-decoration: underline wavy rgb(192,67,108) 4px;font-size:50px;color:rgb(192, 67, 108)}
+#para1{font-size: 45px;font-family: "Dancing Script", cursive;}
+#end{display: none;color: brown;background-color: white;text-align: center;text-decoration: underline wavy 5px;font-size: 45px;height:65px;font-family: "Dancing Script", cursive;}
